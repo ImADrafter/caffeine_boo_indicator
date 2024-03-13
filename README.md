@@ -1,4 +1,4 @@
-# caffeine_boo_indicator
+# ![boo](https://github.com/ImADrafter/caffeine_boo_indicator/blob/main/active.png) Caffeine Boo Indicator
 
 ## Description
 Set of icons for caffeine indicator.
